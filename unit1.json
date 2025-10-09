@@ -1,0 +1,195 @@
+
+{
+  "appTitle": "Révisions de Français - Unité 1",
+  "sections": [
+    {
+      "title": "Leçons Orales - Dialogues",
+      "description": "Mini-dialogues pour pratiquer le récit d'événements et la situation dans le temps.",
+      "cards": [
+        {
+          "type": "dialogue",
+          "theme": "Raconter un événement",
+          "exchange": [
+            { "speaker": "A", "line" : "D'abord, nous avons visité la grande place, puis, après le déjeuner, nous sommes allés à l'hôtel." },
+            { "speaker": "B", "line": "Super! Et ensuite, qu'est-ce que vous avez préféré dans ce voyage?" }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "theme": "Situer une action (Achoura)",
+          "exchange": [
+            { "speaker": "A", "line": "Nabil, n'oublie pas : nous devons acheter l'agneau pour la fête avant 4 heures." },
+            { "speaker": "B", "line": "Oui maman, je le ferai demain matin en allant à l'école." }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "theme": "Décrire une fête (Achoura)",
+          "exchange": [
+            { "speaker": "A", "line": "Regarde les petites filles! Pendant la fête de l'Achoura, elles jouent avec quels instruments?" },
+            { "speaker": "B", "line": "Ce sont des tambours et des petites flûtes! Et les femmes préparent des gâteaux." }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "theme": "Décrire une tradition (Fantasia)",
+          "exchange": [
+            { "speaker": "A", "line": "Qu'est-ce que tu vois sur l'image? Qui sont les cavaliers?" },
+            { "speaker": "B", "line": "Je vois des cavaliers sur de beaux chevaux qui font la Fantasia, une tradition à Meknès." }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "theme": "Situer dans le temps (Voyage)",
+          "exchange": [
+            { "speaker": "A", "line": "À quelle heure est-ce que les voyageurs sont arrivés à l'hôtel?" },
+            { "speaker": "B", "line": "Ils sont arrivés en début d'après-midi, juste avant de prendre le dessert." }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "theme": "Situer une durée (Fête)",
+          "exchange": [
+            { "speaker": "A", "line": "Est-ce que la famille va regarder le match de foot à la télé?" },
+            { "speaker": "B", "line": "Non, ils vont regarder l'émission sur la fête religieuse jusqu'à la fin de la soirée." }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "theme": "Situer un événement (Mouton)",
+          "exchange": [
+            { "speaker": "A", "line": "Qui t'a accompagné pour acheter le mouton?" },
+            { "speaker": "B", "line": "Mon père et mon oncle Nabil sont venus avec moi pour choisir le mouton avant la fête." }
+          ]
+        },
+        {
+          "type": "dialogue",
+          "theme": "Décrire un lieu (Meknès)",
+          "exchange": [
+            { "speaker": "A", "line": "Que représentent les images du bas ? Est-ce que c'est une vieille ville?" },
+            { "speaker": "B", "line": "Oui, ce sont les remparts et les monuments de Meknès, une ville impériale du Maroc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Conjugaison & Temps",
+      "description": "Règles et exemples du Présent de l'Indicatif et du Futur Simple.",
+      "cards": [
+        {
+          "type": "language_card",
+          "lesson": "Le Présent de l'Indicatif",
+          "rule": "On l'utilise pour une action maintenant, une vérité générale, ou une habitude.",
+          "examples": [
+            "Action Maintenant : Les enfants **jouent** dans le jardin.",
+            "Vérité Générale : La Terre **tourne** autour du Soleil.",
+            "Habitude : Chaque matin, je **prends** le bus.",
+            "Récit Passé : La semaine dernière, il **pleut** sans arrêt."
+          ]
+        },
+        {
+          "type": "language_card",
+          "lesson": "Le Futur Simple",
+          "rule": "Il sert à parler d'une action future, d'une supposition, d'un conseil, ou d'une promesse.",
+          "examples": [
+            "Action Future : Nous **visiterons** le musée demain.",
+            "Supposition : Il **sera** peut-être en retard.",
+            "Conseil : Tu **devras** étudier pour réussir.",
+            "Promesse : Je **t'écrirai** une lettre de mes vacances."
+          ]
+        },
+        {
+          "type": "language_card",
+          "lesson": "Résumé",
+          "rule": "<div style='text-align:center;'>Le présent exprime ce qui se passe maintenant ou régulièrement.<br>Le futur simple exprime ce qui arrivera plus tard.</div>"
+        }
+      ]
+    },
+    {
+      "title": "Grammaire & Structure",
+      "description": "Règles sur la phrase (verbale/nominale) et les compléments (COD/COI).",
+      "cards": [
+        {
+          "type": "language_card",
+          "lesson": "La Phrase Verbale et Nominale",
+          "rule": "Verbale = contient un verbe conjugué. Nominale = ne contient pas de verbe conjugué.",
+          "examples": [
+            "Phrase Verbale : Le Maroc **exporte** ses produits.",
+            "Phrase Nominale : Magnifique paysage!",
+            "Phrase Verbale : Le chien **aboie** très fort.",
+            "Phrase Nominale : Silence absolu."
+          ]
+        },
+        {
+          "type": "language_card",
+          "lesson": "Le Verbe et ses Compléments (COD & COI)",
+          "rule": "COD répond à Qui ? ou Quoi ? (direct). COI répond à À qui/quoi ? ou De qui/quoi ? (indirect).",
+          "examples": [
+            "COD : J'achète **des fruits**.",
+            "COI : Il pense **à ses vacances**.",
+            "COD : Nous regardons **le film**.",
+            "COI : Tu parles **de tes amis**."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Orthographe & Accords",
+      "description": "Règles d'accord de l'adjectif et du verbe avec le sujet.",
+      "cards": [
+        {
+          "type": "language_card",
+          "lesson": "Le Genre et le Nombre (Adjectif)",
+          "rule": "L'adjectif s'accorde en genre et en nombre avec le nom.",
+          "examples": [
+            "Féminin Singulier : Une robe **blanche**.",
+            "Masculin Pluriel : De grands arbres **verts**.",
+            "Féminin Pluriel : Les traditions **anciennes**.",
+            "Masculin Singulier : Un mur **solide**."
+          ]
+        },
+        {
+          "type": "language_card",
+          "lesson": "L'Accord Verbe-Sujet",
+          "rule": "Le verbe s'accorde toujours avec son sujet. Un sujet composé → verbe au pluriel.",
+          "examples": [
+            "Sujet Pluriel : Le père et la mère **discutent**.",
+            "Sujet Singulier : Le vent **souffle** fort.",
+            "Sujet Composé : Les garçons et les filles **courent**.",
+            "Sujet Singulier : La jeune fille **chante**."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vocabulaire",
+      "description": "Règles sur les niveaux de langue et les mots polysémiques.",
+      "cards": [
+        {
+          "type": "language_card",
+          "lesson": "Les Niveaux de Langue",
+          "rule": "Familier (oral, relax), Courant (normal), Soutenu (écrit, formel).",
+          "examples": [
+            "Familier : On **kiffe** la musique.",
+            "Courant : Nous **apprécions** la musique.",
+            "Soutenu : Ils **reviennent** du labeur.",
+            "Familier : Je n'ai pas de **pognon**."
+          ]
+        },
+        {
+          "type": "language_card",
+          "lesson": "La Polysémie",
+          "rule": "Un mot a plusieurs sens différents. Le contexte nous donne le bon sens.",
+          "examples": [
+            "Le verbe **SIFFLER** (sport) : L'arbitre **siffle** la fin du match.",
+            "Le verbe **SIFFLER** (vent) : Le vent **siffle** dans les arbres.",
+            "Le mot **BASE** (géométrie) : La **base** du triangle est large.",
+            "Le mot **BASE** (militaire) : Ils construisent une **base** navale."
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
